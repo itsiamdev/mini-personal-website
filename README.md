@@ -1,34 +1,38 @@
 # 🚀 Mini Personal Website
 
-Salut! 👋 Acest proiect reprezintă un site web personal minimalist creat pentru a mă prezenta pe mine, Ioniță Aurel-Mihai, ca programator front-end. 💻
+Hello! 👋 This is a minimalist personal website project created to showcase myself, Ioniță Aurel-Mihai, as a front-end developer. 💻
 
-## 📖 Despre Proiect
+## 📖 About the Project
 
-Acest site este o pagină simplă și elegantă care include informații despre mine, proiectele mele și datele de contact. 🎨 Este construit folosind doar HTML și CSS pentru a fi ușor de întreținut și rapid de încărcat.
+This site is a simple and elegant page that includes information about me, my projects, and contact details. 🎨 It's built using only HTML and CSS to be easy to maintain and fast to load.
 
-## ✨ Caracteristici
+## 🌐 Live Demo
 
-- **Design Responsiv** 📱: Se adaptează la diferite dispozitive
-- **Secțiuni Organizate** 📂: Despre mine, Proiecte, Contact
-- **Stil Modern** 🎨: Culori contrastante și layout curat
-- **Ușor de Personalizat** 🔧: Cod simplu și clar
+Check out the live version here: [https://iam269.github.io/mini-personal-website/](https://iam269.github.io/mini-personal-website/) 🚀
 
-## 🛠️ Tehnologii Utilizate
+## ✨ Features
+
+- **Responsive Design** 📱: Adapts to different devices
+- **Organized Sections** 📂: About Me, Projects, Contact
+- **Modern Style** 🎨: Contrasting colors and clean layout
+- **Easy to Customize** 🔧: Simple and clear code
+
+## 🛠️ Technologies Used
 
 - **HTML5** 🌐
 - **CSS3** 🎨
 
-## 🚀 Cum să Rulezi Proiectul
+## 🚀 How to Run the Project
 
-1. Clonează repository-ul 📥
-2. Deschide fișierul `index.html` în browser-ul tău favorit 🌍
-3. Sau servește-l local cu un server simplu (opțional) 🖥️
+1. Clone the repository 📥
+2. Open the `index.html` file in your favorite browser 🌍
+3. Or serve it locally with a simple server (optional) 🖥️
 
 ## 📞 Contact
 
 - **GitHub**: [iam269](https://github.com/iam269) 🐙
-- **Email**: Adresa ta de email 📧
+- **Email**: Your email address 📧
 
 ---
 
-Creat cu ❤️ de Ioniță Aurel-Mihai
+Created with ❤️ by Ioniță Aurel-Mihai
