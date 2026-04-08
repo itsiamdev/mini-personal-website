@@ -8,7 +8,7 @@ This site is a simple and elegant page that includes information about me, my pr
 
 ## 🌐 Live Demo
 
-Check out the live version here: [https://iam269.github.io/mini-personal-website/](https://iam269.github.io/mini-personal-website/) 🚀
+Check out the live version here: [https://itsiamdev.github.io/mini-personal-website/](https://itsiamdev.github.io/mini-personal-website/) 🚀
 
 ## ✨ Features
 
